@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300|Open+Sans:400italic,600italic,400,600);
+
+.mobile {
+  width: 99%;
+  -moz-animation: wordpress 2s ease;
+  -webkit-animation: wordpress 2s ease;
+  background:lightgreen;
+}
+
+.frontend {
+  width: 96%;
+  -moz-animation: wordpress 2s ease;
+  -webkit-animation: wordpress 2s ease;
+  background:orange;
+}
+
+.backend {
+  width: 98%;
+  -moz-animation: wordpress 2s ease;
+  -webkit-animation: wordpress 2s ease;
+  background:pink;
+}
+
+.desktop {
+  width: 90%;
+  -moz-animation: wordpress 2s ease;
+  -webkit-animation: wordpress 2s ease;
+  background:lightblue;
+}
